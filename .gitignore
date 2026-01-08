@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Distribution
+*.jar
+libs/
+build/libs/
+
+# Server / plugin-specific
+plugins/*.jar
+logs/
+server/
+
+# Temporary / misc
+tmp/

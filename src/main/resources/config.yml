@@ -1,0 +1,7 @@
+# 调试模式
+debug: false
+
+# 潜行次数配置
+sneak-count:
+  min: 10
+  max: 20

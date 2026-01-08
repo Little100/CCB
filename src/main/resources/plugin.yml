@@ -1,0 +1,16 @@
+name: CCB
+version: '1.0.0'
+main: org.little100.cCB.CCB
+api-version: '1.21'
+folia-supported: true
+authors: [ Little_100 ]
+description: 我的世界但是CCB
+website: www.little100.top
+commands:
+  ccb:
+    description: CCB主命令
+    usage: /ccb <sex|on|off|offset|alwayson>
+permissions:
+  ccb.alwayson:
+    description: 允许使用alwayson命令
+    default: op
